@@ -1,3 +1,18 @@
 node_modules
 .vscode-test/
 *.vsix
+# Dependency directories
+/node_modules
+
+# Build directory
+/build
+
+# Logs
+*.log
+
+# Environment file
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
